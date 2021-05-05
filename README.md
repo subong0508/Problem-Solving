@@ -9,3 +9,6 @@
 - [1865번 웜홀](https://www.acmicpc.net/problem/1865)
 
 ## Programmers 다시 풀 문제들
+
+- [2020 카카오 인턴십 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+- [2020 카카오 인턴십 경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
