@@ -8,6 +8,9 @@
 - [1629번 곱셈](https://www.acmicpc.net/problem/1629)
 - [1865번 웜홀](https://www.acmicpc.net/problem/1865)
 - [5525번 IOIOI](https://www.acmicpc.net/problem/5525)
+- [2448번 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [2638번 치즈](https://www.acmicpc.net/problem/2638)
+- [5639번 이진 검색 트리](https://www.acmicpc.net/problem/5639)
 
 ## Programmers 다시 풀 문제들
 
