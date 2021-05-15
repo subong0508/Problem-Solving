@@ -11,6 +11,7 @@
 - [2448번 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [2638번 치즈](https://www.acmicpc.net/problem/2638)
 - [5639번 이진 검색 트리](https://www.acmicpc.net/problem/5639)
+- [9251번 LCS](https://www.acmicpc.net/problem/9251)
 
 ## Programmers 다시 풀 문제들
 
